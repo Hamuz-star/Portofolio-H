@@ -697,6 +697,10 @@ span {
   .skills {
     width: 180%;
   }
+
+  .home-sci {
+    margin-top: 30%;
+  }
 }
 
 /* Ukuran Mobile */
